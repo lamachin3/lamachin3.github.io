@@ -10,6 +10,6 @@ This folder contains all my writeups.
 
 Currently working on :
 
-* HackTheBoc
+* HackTheBox
 
 * TryHackMe
