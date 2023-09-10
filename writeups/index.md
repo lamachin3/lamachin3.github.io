@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Writeups
 nav_order: 1
 ---
 
