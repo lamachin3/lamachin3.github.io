@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Buttons
-parent: UI Components
+title: HackTheBox
+parent: Writeups
 nav_order: 2
 ---
+
+# HackTheBow writeups
