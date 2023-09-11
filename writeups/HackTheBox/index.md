@@ -1,8 +1,12 @@
 ---
 layout: default
 title: HackTheBox
-parent: Writeups
 nav_order: 2
+parent: Writeups
+has_children: true
+permalink: /writeups/hackthebox
 ---
 
 # HackTheBow writeups
+
+HackTheBox home page
